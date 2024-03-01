@@ -31,11 +31,6 @@ public class MainApp {
       danil.setCar(bmw);
       alexandr.setCar(toyota);
 
-//      lada.setUser(ivan);
-//      volvo.setUser(petr);
-//      bmw.setUser(danil);
-//      toyota.setUser(alexandr);
-
       userService.add(ivan);
       userService.add(petr);
       userService.add(danil);
